@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salutations! I'm a Full Stack Software Developer from the beautiful land of Minnesota. 👋
 
 <!--
 **yyerthao/yyerthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
