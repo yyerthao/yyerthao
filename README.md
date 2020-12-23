@@ -19,10 +19,13 @@ Life has taught me a lot but I find myself grateful for the things I have, and f
 3. Code puns ... good for health.
 4. Bad code is just code that doesn't work YET (and might need lots of rewriting).
 
-### 
 
-Please feel free to take a look at my code from the beginning of my time on Github to most current. 
+### CONNECT WITH ME:
+* LinkedIn: https://www.linkedin.com/in/yerthao/
+* Portfolio: https://yyerthao.github.io/
 
+
+### Please feel free to take a look at my code from the beginning of my time on Github to most current. I am OPEN to any suggestions and conversations.
 
 
 
