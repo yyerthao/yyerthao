@@ -1,4 +1,8 @@
-### Salutations! I'm a Full Stack Software Developer from the beautiful land of Minnesota. 👋
+### Salutations!!
+
+I am Yer, pretty darn ambitious Full Stack Software Developer from the beautiful land of Minnesota. 👋 Prior to venturing into the tech space, I graduated from Minnesota State University, MN with a Bachelors of Arts in English Literature. I thoroughly enjoyed writing creative fiction and poetry, however I discovered a love for coding just recently and here I am. 
+
+
 
 <!--
 **yyerthao/yyerthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
