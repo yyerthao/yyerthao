@@ -2,7 +2,9 @@
 
 Hello, I'm Yer! a pretty darn ambitious Full Stack Software Developer, eager to play with code in the tech space. So far, I really enjoy finding myself challenges to create visually aesthetic front end. I also enjoy and respect the power of back end code as well - still learning, always learning.
 
-Personally, I believe anyone and everyone, can always strive to be a better version of themself each and every day. I find myself drawn to practicing this and utilize this within my code work. Please feel free to take a look at my code from the beginning of my time on Github to most current. 
+Personally, I believe anyone and everyone, can always strive to be a better version of themself each and every day. I find myself drawn to practicing and utilizing this within my code work often. 
+
+Please feel free to take a look at my code from the beginning of my time on Github to most current. 
 
 
 
