@@ -1,6 +1,9 @@
-### Salutations!!
+### ABOUT ME
 
-I am Yer, pretty darn ambitious Full Stack Software Developer from the beautiful land of Minnesota. 👋 Prior to venturing into the tech space, I graduated from Minnesota State University, MN with a Bachelors of Arts in English Literature. I thoroughly enjoyed writing creative fiction and poetry, however I discovered a love for coding just recently and here I am. 
+Hello, I'm Yer! a pretty darn ambitious Full Stack Software Developer, eager to play with code in the tech space. So far, I really enjoy finding myself challenges to create visually aesthetic front end. I also enjoy and respect the power of back end code as well - still learning, always learning.
+
+Personally, I believe anyone and everyone, can always strive to be a better version of themself each and every day. I find myself drawn to practicing this and utilize this within my code work. Please feel free to take a look at my code from the beginning of my time on Github to most current. 
+
 
 
 
