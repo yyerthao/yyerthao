@@ -1,7 +1,3 @@
-### YER
-
-Hello, nyob zoo. I'm a Full Stack Software Engineer 
-
 
 ### ⚡⚡⚡ Non-Code Stuff ⚡⚡⚡
 * I love, LOVE movies (comedy, horror, suspense), 
