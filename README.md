@@ -14,15 +14,14 @@ Life has taught me a lot but I find myself grateful for the things I have, and f
 4. Bad code is just code that doesn't work YET (and might need lots of rewiring).
 
 ### 🔭🌈☀️ Current Playground ☕️🥅🏀
-1. Currently learning Java with a Udemy course, YouTube Mosh tutorials, on IntelliJ.
-2. Creating an app for my kids to learn as this mama is a working mama and sometimes I can't reinforce their learning during school hours.
+1. Currently learning Java, Angular, and Spring Boot.
+2. Creating a learning app for my kids to learn as this mama is a working mama and sometimes I can't reinforce their learning in parallel to my work hours.
 
 ### CONNECT WITH ME:
 * LinkedIn: https://www.linkedin.com/in/yerthao/
 * Portfolio: https://yyerthao.github.io/
 
 
-### 💬 Please feel free to take a look at my code from the beginning of my time on Github to most current. I am OPEN to any suggestions and conversations.
 
 
 
