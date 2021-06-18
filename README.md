@@ -1,6 +1,6 @@
 
 ### 🧐🗣🧞 Yer's Philosophies 🌞🌎💥
-1. Growth mindset 🌱 ALL THE WAY. It's hard to reel yourself back into loving and being patient with yourself while you grow but I am an advocate for promoting the power of a growth mindset. I aim to practice what I preach, but even I succumb to the power of a fixed mindset here and there (BUT! as an optimist, this just paves way for more lessons to be learned).
+1. Growth mindset 🌱 ALL THE WAY. 
 2. Be kind, always.
 3. Code puns ... good for health.
 4. Bad code is just code that doesn't work YET, keep going.
