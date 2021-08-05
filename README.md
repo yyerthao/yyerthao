@@ -3,18 +3,17 @@
 1. Growth mindset 🌱 ALL THE WAY. 
 2. Be kind, always.
 3. Code puns ... good for health.
-4. Bad code is just code that doesn't work YET, keep going.
 
 ### 🔭🌈☀️ Current Playground ☕️🥅🏀
-1. Currently learning Java, Angular, and Spring Boot.
-2. Creating a learning app for my kids to learn as this mama is a working mama and sometimes I can't reinforce their learning in parallel to my work hours.
+1. Currently diving into front end technologies and testing.
+2. Creating an e-commerce site for my sister, my very first client. :)
 
 ### ⚡⚡⚡ Non-Code Stuff ⚡⚡⚡
 I LOVE:
 * movies (comedy, horror, suspense), 
 * cooking and eating spicy foods (pho, kaopoon, Thai and Indian curry), 
 * bullet point listing, and 
-* being a boy mom to my precious boys. 
+* parkouring with my boys.
 
 ### CONNECT WITH ME:
 * LinkedIn: https://www.linkedin.com/in/yerthao/
