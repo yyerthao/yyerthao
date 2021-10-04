@@ -5,8 +5,8 @@
 3. Code puns ... good for health.
 
 ### 🔭🌈☀️ Current Playground ☕️🥅🏀
-1. Currently diving into front end technologies and testing.
-2. Creating an e-commerce site for my sister, my very first client. :)
+1. Currently diving into Ruby, Cucumber, Capybara for automation testing and test scripting.
+2. Creating a side project for my children.
 
 ### ⚡⚡⚡ Non-Code Stuff ⚡⚡⚡
 I LOVE:
