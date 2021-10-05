@@ -19,6 +19,9 @@ I LOVE:
 * LinkedIn: https://www.linkedin.com/in/yerthao/
 * Portfolio: https://yyerthao.github.io/
 
+### Technologies I'm working on && working on keeping ;) 
+* Javascript || React || Redux || HTML || CSS 
+* Ruby || Cucumber || Capybara || Selenium 
 
 <!--
 **yyerthao/yyerthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
