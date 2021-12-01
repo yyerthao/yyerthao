@@ -5,15 +5,14 @@
 3. Code puns ... good for health.
 
 ### 🔭🌈☀️ Current Playground ☕️🥅🏀
-1. Currently diving into Ruby, Cucumber, Capybara for automation testing and test scripting.
-2. Creating a side project for my children.
+1. Currently diving into Ruby, Cucumber, Capybara for automation testing
+2. Creating a simple learning app for my boys.
 
 ### ⚡⚡⚡ Non-Code Stuff ⚡⚡⚡
 I LOVE:
-* movies (comedy, horror, suspense), 
-* cooking and eating spicy foods (pho, kaopoon, Thai and Indian curry), 
-* bullet point listing, and 
-* parkouring with my boys.
+* Kdramas
+* my boys 
+* food
 
 ### CONNECT WITH ME:
 * LinkedIn: https://www.linkedin.com/in/yerthao/
