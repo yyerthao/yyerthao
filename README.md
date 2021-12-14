@@ -6,7 +6,7 @@
 
 ### 🔭🌈☀️ Current Playground ☕️🥅🏀
 1. Currently diving into Ruby, Cucumber, Capybara for automation testing
-2. Creating a simple learning app for my boys.
+2. Creating a simple learning app for my boys; literally it has a bunch of cards and onClick handlers on them 😂 
 
 ### ⚡⚡⚡ Non-Code Stuff ⚡⚡⚡
 I LOVE:
