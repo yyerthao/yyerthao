@@ -9,10 +9,10 @@
 2. Creating a simple learning app for my boys; literally it has a bunch of cards and onClick handlers on them 😂 
 
 ### ⚡⚡⚡ Non-Code Stuff ⚡⚡⚡
-I LOVE:
-* Kdramas
-* my boys 
-* food
+I appreciate:
+* Family & Friends
+* Networking and learning from others
+* Food & Coffee
 
 ### CONNECT WITH ME:
 * LinkedIn: https://www.linkedin.com/in/yerthao/
@@ -20,19 +20,8 @@ I LOVE:
 
 ### Technologies I'm working on && working on keeping ;) 
 * Javascript || React || Redux || HTML || CSS 
-* Ruby || Cucumber || Capybara || Selenium 
+* Ruby || Cucumber || Capybara || Selenium WebDriver
 
-<!--
-**yyerthao/yyerthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Yer in a Nutshell, elevator pitch.
+* It's so important to do things with a purpose, be driven by intention to give back to others, and to view others as humans first. 
