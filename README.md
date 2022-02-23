@@ -19,7 +19,7 @@
 
 ### Tools and Technologies 
 * Ruby || Cucumber || Capybara || Selenium WebDriver
-* Javascript || React || Redux || HTML || CSS 
+* I miss JavaScript a little :) 
 
 
 <!-- ### Yer in a Nutshell -->
