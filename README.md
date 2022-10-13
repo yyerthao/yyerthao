@@ -6,15 +6,11 @@
 
 ### Current Playground ###
 1. Learning how to automate reading xlsx/csv files.
-2. Creating a simple learning app for my boys; it literally just has a bunch of cards and onClick handlers on them this moment with Material-UI. 😂 
-
-<!-- 
-###  Non-Code Stuff ###
- -->
+2. Creating a simple learning app for my boys; it still has a bunch of cards and onClick handlers on them this moment with Material-UI 😂 
 
 ### CONNECT WITH ME:
 * LinkedIn: https://www.linkedin.com/in/yerthao/
-* Portfolio: https://yyerthao.github.io/
+* Portfolio - getting a face lift
 
 ### Tools and Technologies 
 * Ruby || Cucumber || Capybara || Selenium WebDriver
